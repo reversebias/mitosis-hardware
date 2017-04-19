@@ -1,4 +1,4 @@
-#mitosis.*
+# mitosis.*
 
 mitosis.zip file should be compatilbe with most prototype PCB services.
 
@@ -6,7 +6,7 @@ mitosis.zip file should be compatilbe with most prototype PCB services.
 
 Success with dirtypcbs.com
 
-#receiver.*
+# receiver.*
 
 receiver.zip file should be compatilbe with most prototype PCB services.
 
