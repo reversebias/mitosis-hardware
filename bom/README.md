@@ -27,7 +27,7 @@ Line | Description | Quantity | Links
 6 | 1206 4.7k resistor array | 2 | [digikey](https://www.digikey.com/product-detail/en/stackpole-electronics-inc/RAVF164DJT4K70/RAVF164DJT4K70CT-ND/2425255)
 7 | SMD tactile button (many compatible) | 2 | [digikey](https://www.digikey.com/product-detail/en/c-k/PTS525SM15SMTR2-LFS/CKN9104CT-ND/1146923)
 8 | Right angle 0.1" header (for optional programming header) | 1x 4pin | 
-
+9 | Straight 0.1" header (for stacking boards) | 2x 6pin | 
 
 
 
