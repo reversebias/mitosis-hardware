@@ -5,7 +5,7 @@ Parts required for the Mitosis Keyboard
 
 Line | Description | Quantity | Links
 --- | --- | --- | ---
-1 | Mitosis Keyboard PCB | 4 | [files](https://github.com/reversebias/mitosis-hardware/tree/master/gerbers), [ordering](dirtypcbs.com)
+1 | Mitosis Keyboard PCB | 4 | [files](https://github.com/reversebias/mitosis-hardware/tree/master/gerbers), [ordering](http://dirtypcbs.com)
 2 | Core51822 (B) Module | 2 | [direct](http://www.waveshare.com/core51822-b.htm), [aliexpress](https://www.aliexpress.com/w/wholesale-core51822-b.html?initiative_id=SB_20170426175446&site=glo&groupsort=1&SortType=price_asc&g=y&SearchText=core51822+b)
 3 | Si2302 (or any other pin-compatible low voltage nFET) | 2 | [ebay](http://www.ebay.com/sch/i.html?_from=R40&_trksid=p2050601.m570.l1313.TR1.TRC0.A0.H0.Xsi2302.TRS0&_nkw=si2302&_sacat=0), [digikey](https://www.digikey.com/product-detail/en/vishay-siliconix/SI2302CDS-T1-E3/SI2302CDS-T1-E3CT-ND/3305362)
 4 | Right angle 0.1" header (for optional programming header) | 2x 4pin | 
@@ -19,7 +19,7 @@ Line | Description | Quantity | Links
 ## Receiver
 Line | Description | Quantity | Links
 --- | --- | --- | ---
-1 | Receiver Interface PCB | 1 | [files](https://github.com/reversebias/mitosis-hardware/tree/master/gerbers), [ordering](oshpark.com)
+1 | Receiver Interface PCB | 1 | [files](https://github.com/reversebias/mitosis-hardware/tree/master/gerbers), [ordering](http://oshpark.com)
 2 | Core51822 (B) Module | 1 | [direct](http://www.waveshare.com/core51822-b.htm), [aliexpress](https://www.aliexpress.com/w/wholesale-core51822-b.html?initiative_id=SB_20170426175446&site=glo&groupsort=1&SortType=price_asc&g=y&SearchText=core51822+b)
 3 | Arduino Pro Mirco | 1 | 
 4 | Cree CLVBA-FKA (or any other pin-compatible PLCC-4 LED) | 1 | [digikey](https://www.digikey.com/product-detail/en/cree-inc/CLVBA-FKA-CAEDH8BBB7A363/CLVBA-FKA-CAEDH8BBB7A363CT-ND/2650500)
